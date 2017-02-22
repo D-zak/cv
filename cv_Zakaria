@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>cv Zakaria DERBALI</title>
+	<meta charset= "utf-8"/>
+	<link rel = "stylesheet" href = "cv.css">
+	</head>
+  <body>
+	    <div class = "page">
+		  <div class = "Contactphoto">
+		     <div class =  "info">
+			     <p> <strong> name : Zakaria DERBALI</strong><br/>
+				   status : Etudiant<br/>
+				   email : zakaria.derbali@etu.univ-lyon1.fr</p>
+				   <p> adress : <br/>
+				      street : 6 rue Vincent Van Gogh<br/>
+					  city : Toulouse<br/>
+					  zip : 31100<br/>
+					  country : France<br/></p>  
+				
+		     <div class = "photo">
+			      <img src = "photo-cv.png" alt="photo Zakaria">
+		     </div>
+		    </div>
+	      </div>
+		
+		   <div  class = "section Formation">
+		      <h2> Formations</h2>
+		      <div class = "section Formation gauche">
+			      <p> sept 2016-Auj</p>
+				  <p> sept 2015 - juin 2016</p>
+				  <p> sept 2011 - juin 2014</p>
+		       </div>
+		       <div class = "section Formation droite">
+			      <p><span class = "titre"> Master 2 Compétnces Complémentaires en Informatique CCI<b/>
+             				  spécialité Système d'Information pour la Production SIP</span><b/>
+							  <p> Université : Claude Bernard Lyon 1</p><b/>
+							  <p> Spécialité : Informatique </p>
+				  
+		          <p><span class = "titre"> Master 2 Matériaux Avancés et Environnement MAE</span><b/>
+							  <p>Université : UFR sc & Tech Toulon </p><b/>
+							  <p> Spécialité : Matériaux avancés </p>
+				  </p>
+				  
+				  <p><span class = "titre"> Diplome Nationale d'ingénieur en Génie Mécanique</span><b/>
+							  <p> Université : Ecole Nationale d'Ingénieur Monastir_ Tunisie</p><b/>
+							  <p> Spécialité : Production </p>
+				  </p>
+		      </div>
+			</div>
+			
+	       <div  class = "section Stages">
+		      <div class = "section Stages gauche">
+			      <p> janvier-juin 2016<br/><span class = "Durée" >(6mois)</span></p>
+				  <p> janvier-juin 2014<br/><span class = "Durée" >(6mois)</span></p>
+		       </div>
+		       <div class = "section Stages droite">
+			       <p><span class = "titre"> Sujet : Etude de propriétés physico-chimiques 
+				                 des membranes échangeuses de protons utilisées dans 
+								 les piles à combustible</span><b/>
+								 <p> Stage : Master M2</p><b/>
+							  <p> Organisme d'accueil : Laboratoire MAPIEM de l'université de Toulon</p><b/>
+							  <p> Outils : TA Analysis </p>
+					</p>
+					
+					<p><span class = "titre"> Sujet : Etude et amélioration de système de guidage de la ligne de production P2N</span><b/>
+								 <p> Stage : Projet de fin d'études</p><b/>
+							  <p> Organisme d'accueil : Laboratoire MAPIEM de l'université de Toulon</p><b/>
+							  <p> Outils : Catia, Abaqus </p>
+					</p>
+		 </div>
+	
+
+		    </div>
+			
+	       <div  class = "section Compétences">
+		        <h2> Langues parlées & autres compétences</h2>
+		      <div class = "section Compétences gauche">
+			     <p> Anglais :</p><br/>
+				 <p> Français :</p><br/>
+				 <p> Espagnol :</p><br/>
+				 <p> Arabe :</p><br/>
+				 <br/>
+				 <p> Informatique :</p><br/>
+				 <p> Mécanique :</p><br/>
+				 <p> Matériaux :</p>
+		       </div>
+		       <div class = "section Compétences droite">
+			     <p> C++,JAVA,PHP,Merise,UML,SQL, XML, PLM, CATIA, MasterCam, Abaqus</p><br/>
+				 <p> OGP, Elaboration de gammes d'usinage, Opérations d'usinage sur MCN, Procédés de fabrication et mise en forme, Calcul RDM</p><br/>
+				 <p> Matériaux composite polymères céramiques et verre, Conception,Simulation,Calcul Element finis, Viellissement des matériaux, Essais thermogravimétriques physiques et chimiques</p>
+				
+		       </div>
+		 </div>
+	</div>
+  </body>
+</html>
