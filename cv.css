@@ -1,0 +1,99 @@
+﻿.page {
+	width : 780 px;
+	margin : auto;
+	front size : 16px;
+	front family : 'Source sans Pro', Calibri, Tahoma, Sans-serif;
+}
+.Contactphoto{
+	height : 250 px;
+}
+.info{
+	float : left;
+}
+.photo{
+	float : right;
+}
+.section Formation{
+	margin-bottom : 70px;
+}
+.section Formation gauche{
+	float : left;
+}
+.section Formation droite{
+	margin left : 150 px;
+}
+.section Stages{
+	margin-bottom : 70px;
+}
+.section Stages gauche{
+	float : left;
+}
+.section Stages droite{
+	margin left : 150 px;
+}
+.section Compétences{
+	margin-bottom : 70px;
+}
+.section Compétences gauche{
+	float : left;
+}
+.section Compétences droite{
+	margin left : 150 px;
+}
+strong{
+      font-size : 26px
+}
+.section{
+      margin-bottom : 70px;
+      text-align : justify;
+}
+
+h2{
+      font-size : 28px;
+      color : #3388BB;
+      text-transform : uppercase;
+      border-bottom : 3px solid #3388DD;
+}
+
+.section Formation gauche{
+      float : left;
+      font-weight : bold;
+      font-size : 20px;
+}
+
+.section Stages gauche{
+      float : left;
+      font-weight : bold;
+      font-size : 20px;
+}
+.section Compétences gauche{
+      float : left;
+      font-weight : bold;
+      font-size : 20px;
+}
+
+.titre{
+      font-weight : bold;
+      font-size : 20px;
+}
+#section Formation gauche p{
+      margin-bottom : 37px;
+}
+.section Formation droite{
+      margin-left : 150px;
+      margin-right : 37px;
+}
+body{
+  background-colour : #CCCCCC;
+}
+.page{
+    width : 780px;
+    margin : auto;
+    font-size : 16px;
+    font-family : 'Source sans Pro', Calibri, Tahoma, sans-serif;
+    padding : 40px;
+    border : 5px solid #3388CC;
+    border-radius : 10px;
+    box-shadow : 2px 4px 3px black;
+    background-color : #FFFFFF;
+} 
