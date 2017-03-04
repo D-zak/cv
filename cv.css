@@ -31,13 +31,13 @@
 .section Stages droite{
 	margin left : 150 px;
 }
-.section Compétences{
+.section Competences{
 	margin-bottom : 70px;
 }
-.section Compétences gauche{
+.section Competences gauche{
 	float : left;
 }
-.section Compétences droite{
+.section Competences droite{
 	margin left : 150 px;
 }
 strong{
@@ -66,7 +66,7 @@ h2{
       font-weight : bold;
       font-size : 20px;
 }
-.section Compétences gauche{
+.section Competences gauche{
       float : left;
       font-weight : bold;
       font-size : 20px;
