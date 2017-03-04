@@ -1,11 +1,11 @@
 ﻿.page {
-	width : 780 px;
+	width : 780px;
 	margin : auto;
 	front size : 16px;
 	front family : 'Source sans Pro', Calibri, Tahoma, Sans-serif;
 }
 .Contactphoto{
-	height : 30 px;
+	height : 70px;
 }
 .info{
 	float : left;
@@ -22,7 +22,7 @@
 	float : left;
 }
 .section Formation droite{
-	margin left : 150 px;
+	margin left : 150px;
 }
 .section Stages{
 	margin-bottom : 70px;
@@ -31,7 +31,7 @@
 	float : left;
 }
 .section Stages droite{
-	margin left : 150 px;
+	margin left : 150px;
 }
 .section Competences{
 	margin-bottom : 70px;
@@ -40,7 +40,7 @@
 	float : left;
 }
 .section Competences droite{
-	margin left : 150 px;
+	margin left : 150px;
 }
 strong{
       font-size : 26px
